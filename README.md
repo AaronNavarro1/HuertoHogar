@@ -1,4 +1,4 @@
-﻿# HuertoHogar 🌿
+
 
 > **Del campo a tu hogar** — Tienda online de productos frescos, naturales y de origen agrícola chileno.
 
@@ -99,3 +99,4 @@ A medida que se reciban las especificaciones y validaciones docentes para DSY110
 2. Gestión de estado para carrito de compras.
 3. Vistas y flujos de autenticación de clientes y productores.
 4. Conexión con servicios backend y persistencia.
+=======
